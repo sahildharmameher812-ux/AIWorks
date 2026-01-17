@@ -519,7 +519,7 @@ const App = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>© 2026 Esha Dev. Made with 💕 & lots of ☕</p>
+          <p>© 2026 Esha Dev. Made with 💕 & lots of love</p>
           <p className="footer-tagline">Engineered for Performance & Aesthetics ✨</p>
         </div>
       </footer>
