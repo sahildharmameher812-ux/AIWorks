@@ -9,7 +9,7 @@ const App = () => {
 
       {/* Navigation Bar */}
       <nav>
-        <div className="logo">SAHIL<span className="glow-text">.DEV</span></div>
+        <div className="logo">Esha<span className="glow-text">.DEV</span></div>
         <div className="nav-links">
           <a href="#projects">Work</a>
           <a href="#skills">Stack</a>
@@ -166,7 +166,7 @@ const App = () => {
         </div>
         
         <p style={{marginTop: '60px', fontSize: '0.8rem', color: '#333', borderTop: '1px solid #222', paddingTop: '20px', width: '100%'}}>
-          © 2026 Sahil Dev. Engineered for Performance & Aesthetics.
+          © 2026 Esha Dev. Engineered for Performance & Aesthetics.
         </p>
       </footer>
     </div>
